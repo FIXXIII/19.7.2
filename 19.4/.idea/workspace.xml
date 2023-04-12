@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa7d1862-cfa4-4d2c-bb12-ddd373573d49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HW 13.8.19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW 13.8.19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAP_PetFriensTesting-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAP_PetFriensTesting-master/.idea/QAP_PetFriensTesting-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAP_PetFriensTesting-master/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAP_PetFriensTesting-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAP_PetFriensTesting-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QAP_PetFriensTesting-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytest_first_test/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytest_first_test/app/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytest_first_test/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pytest_first_test/test/first_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/build/таймер/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/build/таймер/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/build/таймер/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/build/таймер/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/build/таймер/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/build/таймер/Tree-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/build/таймер/Tree-01.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/build/таймер/Tree-02.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/build/таймер/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/build/таймер/warn-таймер.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/build/таймер/xref-таймер.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/build/таймер/таймер.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/build/таймер/таймер.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/dist/таймер.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/script_name.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/таймер код.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/таймер.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/таймер.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/.idea/pythonProject3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/testRectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/pythonProject4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/catclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/.idea/pythonProject5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/HW 17.9.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject5/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectUNIT18/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectUNIT18/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectUNIT18/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectUNIT18/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectUNIT18/.idea/pythonProjectUNIT18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectUNIT18/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProjectUNIT18/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonQAP1034/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonQAP1034/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonQAP1034/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonQAP1034/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonQAP1034/.idea/pythonQAP1034.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonQAP1034/example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonQAP1034/exemple2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonQAP1034/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telebot/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telebot/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telebot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telebot/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telebot/.idea/telebot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telebot/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telebot/extensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telebot/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test16.8.2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test16.8.2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test16.8.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test16.8.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test16.8.2/.idea/test16.8.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test16.8.2/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test16.8.2/extensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test16.8.2/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2NyzAc1UYsZxY7wlhKmDWUXIIzI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="19.4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa7d1862-cfa4-4d2c-bb12-ddd373573d49" name="Changes" comment="" />
+      <created>1680650968013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680650968013</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
